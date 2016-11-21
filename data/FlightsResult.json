@@ -1,0 +1,28 @@
+{
+    "OriginLocation": "JFK",
+    "DestinationLocation": "LAX",
+    "FareInfo": [{
+        "LowestFare": {
+            "AirlineCodes": ["DL"],
+            "Fare": 382.2
+        },
+        "CurrencyCode": "USD",
+        "LowestNonStopFare": {
+            "AirlineCodes": ["DL"],
+            "Fare": 382.2
+        },
+        "DepartureDateTime": "2016-07-15T00:00:00",
+        "ReturnDateTime": "2016-07-29T00:00:00",
+        "Links": [{
+            "rel": "shop",
+            "href": "https://api.test.sabre.com/v1/shop/flights?origin=JFK&destination=LAX&departuredate=2016-07-15&returndate=2016-07-29&pointofsalecountry=US"
+        }]
+    }],
+    "Links": [{
+        "rel": "self",
+        "href": "https://api.test.sabre.com/v2/shop/flights/fares?origin=JFK&destination=LAX&lengthofstay=14&departuredate=2016-07-15&maxfare=1000&pointofsalecountry=US"
+    }, {
+        "rel": "linkTemplate",
+        "href": "https://api.test.sabre.com/v2/shop/flights/fares?origin=<origin>&destination=<destination>&lengthofstay=<lengthofstay>&departuredate=<departuredate>&minfare=<minfare>&maxfare=<maxfare>&pointofsalecountry=<pointofsalecountry>"
+    }]
+}

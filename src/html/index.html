@@ -1,0 +1,53 @@
+<html lang="en">
+<head>
+<meta charset="UTF-8" /><title>Get me out of here</title>
+</head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="css/style.css" />
+<link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+<body>
+<form>
+<div class="box-border">
+<div class="row">
+  <div id="box-data">
+    <h2>GET ME OUT OF HERE</h2>
+  	<div class="row">
+    <div  class="col_4">
+  	     <label>Departure</label>
+         	<div>
+    		 <select id="departure-cities">
+    			<option value="New York">New York</option>
+    			<option value="Atlanta">Atlanta</option>
+    			<option value="Austin">Austin</option>
+    		</select>
+      </div>
+    </div>
+    <div class="col_4">
+  		<label> Days</label>
+  			<div>
+          <span>1</span>
+  		 	  <input  id="duration" type="range"  value="0" step="1" oninput="durationChange()" min="1" max="5" />
+          <output id="currentDuration" class="rangeValue">0</output>
+  			<span>5</span>
+      </div>
+  	</div>
+  	<div class="col_4">
+  		 <label> Temperature (C<sup>o</sup>)</label>
+       	<div>
+  			<span>0</span>
+  			<input id="temperature" type="range"  value="-5" step="1"  min="0" max="40" oninput="tempChange()"/>
+        <output id="currentTemperature" class="rangeValue">0</output>
+  			<span>40</span>
+        </div>
+  	</div>
+    </div>
+     <input id="submitButton" type="submit" class="submit">
+</div>
+</div>
+<div>
+    <div class="results"></div>
+    <script src="js/app.js"></script>
+</div>
+</form>
+</body>
+</html>

@@ -1,0 +1,250 @@
+       {"Cities":[{"code":"AUH","name":"Abu Dhabi","countryCode":"AE","countryName":"Un
+       ited Arab Emirates","regionName":"Middle East","Links":[{"rel":"airportsInCity",
+       "href":"https://api.test.sabre.com/v1/lists/supported/cities/AUH/airports"}]},{"
+       code":"ALY","name":"Alexandria","countryCode":"EG","countryName":"Egypt","region
+       Name":"Middle East","Links":[{"rel":"airportsInCity","href":"https://api.test.sa
+       bre.com/v1/lists/supported/cities/ALY/airports"}]},{"code":"LTS","name":"Altus",
+       "countryCode":"US","countryName":"United States","regionName":"North America","L
+       inks":[{"rel":"airportsInCity","href":"https://api.test.sabre.com/v1/lists/suppo
+       rted/cities/LTS/airports"}]},{"code":"ANK","name":"Ankara","countryCode":"TR","c
+       ountryName":"Turkey","regionName":"Europe","Links":[{"rel":"airportsInCity","hre
+       f":"https://api.test.sabre.com/v1/lists/supported/cities/ANK/airports"}]},{"code
+       ":"AIY","name":"Atlantic City","countryCode":"US","countryName":"United States",
+       "regionName":"North America","Links":[{"rel":"airportsInCity","href":"https://ap
+       i.test.sabre.com/v1/lists/supported/cities/AIY/airports"}]},{"code":"BAK","name"
+       :"Baku","countryCode":"AZ","countryName":"Azerbaijan","regionName":"Europe","Lin
+       ks":[{"rel":"airportsInCity","href":"https://api.test.sabre.com/v1/lists/support
+       ed/cities/BAK/airports"}]},{"code":"BKK","name":"Bangkok","countryCode":"TH","co
+       untryName":"Thailand","regionName":"Asia Pacific","Links":[{"rel":"airportsInCit
+       y","href":"https://api.test.sabre.com/v1/lists/supported/cities/BKK/airports"}]}
+       ,{"code":"EAP","name":"Basel","countryCode":"CH","countryName":"Switzerland","re
+       gionName":"Europe","Links":[{"rel":"airportsInCity","href":"https://api.test.sab
+       re.com/v1/lists/supported/cities/EAP/airports"}]},{"code":"BJS","name":"Beijing"
+       ,"countryCode":"CN","countryName":"China","regionName":"Asia Pacific","Links":[{
+       "rel":"airportsInCity","href":"https://api.test.sabre.com/v1/lists/supported/cit
+       ies/BJS/airports"}]},{"code":"BFS","name":"Belfast","countryCode":"GB","countryN
+       ame":"United Kingdom","regionName":"Europe","Links":[{"rel":"airportsInCity","hr
+       ef":"https://api.test.sabre.com/v1/lists/supported/cities/BFS/airports"}]},{"cod
+       e":"BHZ","name":"Belo Horizonte","countryCode":"BR","countryName":"Brazil","regi
+       onName":"Latin America","Links":[{"rel":"airportsInCity","href":"https://api.tes
+       t.sabre.com/v1/lists/supported/cities/BHZ/airports"}]},{"code":"BER","name":"Ber
+       lin","countryCode":"DE","countryName":"Germany","regionName":"Europe","Links":[{
+       "rel":"airportsInCity","href":"https://api.test.sabre.com/v1/lists/supported/cit
+       ies/BER/airports"}]},{"code":"BXN","name":"Bodrum","countryCode":"TR","countryNa
+       me":"Turkey","regionName":"Europe","Links":[{"rel":"airportsInCity","href":"http
+       s://api.test.sabre.com/v1/lists/supported/cities/BXN/airports"}]},{"code":"BRU",
+       "name":"Brussels","countryCode":"BE","countryName":"Belgium","regionName":"Europ
+       e","Links":[{"rel":"airportsInCity","href":"https://api.test.sabre.com/v1/lists/
+       supported/cities/BRU/airports"}]},{"code":"BUH","name":"Bucharest","countryCode"
+       :"RO","countryName":"Romania","regionName":"Europe","Links":[{"rel":"airportsInC
+       ity","href":"https://api.test.sabre.com/v1/lists/supported/cities/BUH/airports"}
+       ]},{"code":"BUE","name":"Buenos Aires","countryCode":"AR","countryName":"Argenti
+       na","regionName":"Latin America","Links":[{"rel":"airportsInCity","href":"https:
+       //api.test.sabre.com/v1/lists/supported/cities/BUE/airports"}]},{"code":"CAS","n
+       ame":"Casablanca","countryCode":"MA","countryName":"Morocco","regionName":"Afric
+       a","Links":[{"rel":"airportsInCity","href":"https://api.test.sabre.com/v1/lists/
+       supported/cities/CAS/airports"}]},{"code":"WCA","name":"Castro","countryCode":"C
+       L","countryName":"Chile","regionName":"Latin America","Links":[{"rel":"airportsI
+       nCity","href":"https://api.test.sabre.com/v1/lists/supported/cities/WCA/airports
+       "}]},{"code":"CHI","name":"Chicago","countryCode":"US","countryName":"United Sta
+       tes","regionName":"North America","Links":[{"rel":"airportsInCity","href":"https
+       ://api.test.sabre.com/v1/lists/supported/cities/CHI/airports"}]},{"code":"CVG","
+       name":"Cincinnati","countryCode":"US","countryName":"United States","regionName"
+       :"North America","Links":[{"rel":"airportsInCity","href":"https://api.test.sabre
+       .com/v1/lists/supported/cities/CVG/airports"}]},{"code":"CSM","name":"Clinton","
+       countryCode":"US","countryName":"United States","regionName":"North America","Li
+       nks":[{"rel":"airportsInCity","href":"https://api.test.sabre.com/v1/lists/suppor
+       ted/cities/CSM/airports"}]},{"code":"CGN","name":"Cologne","countryCode":"DE","c
+       ountryName":"Germany","regionName":"Europe","Links":[{"rel":"airportsInCity","hr
+       ef":"https://api.test.sabre.com/v1/lists/supported/cities/CGN/airports"}]},{"cod
+       e":"QDF","name":"Dallas - Fort Worth","countryCode":"US","countryName":"United S
+       tates","regionName":"North America","Links":[{"rel":"airportsInCity","href":"htt
+       ps://api.test.sabre.com/v1/lists/supported/cities/QDF/airports"}]},{"code":"DTT"
+       ,"name":"Detroit","countryCode":"US","countryName":"United States","regionName":
+       "North America","Links":[{"rel":"airportsInCity","href":"https://api.test.sabre.
+       com/v1/lists/supported/cities/DTT/airports"}]},{"code":"DXB","name":"Dubai","cou
+       ntryCode":"AE","countryName":"United Arab Emirates","regionName":"Middle East","
+       Links":[{"rel":"airportsInCity","href":"https://api.test.sabre.com/v1/lists/supp
+       orted/cities/DXB/airports"}]},{"code":"DUS","name":"Dusseldorf","countryCode":"D
+       E","countryName":"Germany","regionName":"Europe","Links":[{"rel":"airportsInCity
+       ","href":"https://api.test.sabre.com/v1/lists/supported/cities/DUS/airports"}]},
+       {"code":"YEA","name":"Edmonton","countryCode":"CA","countryName":"Canada","regio
+       nName":"North America","Links":[{"rel":"airportsInCity","href":"https://api.test
+       .sabre.com/v1/lists/supported/cities/YEA/airports"}]},{"code":"ENS","name":"Ensc
+       hede","countryCode":"NL","countryName":"Netherlands","regionName":"Europe","Link
+       s":[{"rel":"airportsInCity","href":"https://api.test.sabre.com/v1/lists/supporte
+       d/cities/ENS/airports"}]},{"code":"FYV","name":"Fayetteville","countryCode":"US"
+       ,"countryName":"United States","regionName":"North America","Links":[{"rel":"air
+       portsInCity","href":"https://api.test.sabre.com/v1/lists/supported/cities/FYV/ai
+       rports"}]},{"code":"FLR","name":"Florence","countryCode":"IT","countryName":"Ita
+       ly","regionName":"Europe","Links":[{"rel":"airportsInCity","href":"https://api.t
+       est.sabre.com/v1/lists/supported/cities/FLR/airports"}]},{"code":"FMY","name":"F
+       ort Myers","countryCode":"US","countryName":"United States","regionName":"North
+       America","Links":[{"rel":"airportsInCity","href":"https://api.test.sabre.com/v1/
+       lists/supported/cities/FMY/airports"}]},{"code":"HAR","name":"Harrisburg","count
+       ryCode":"US","countryName":"United States","regionName":"North America","Links":
+       [{"rel":"airportsInCity","href":"https://api.test.sabre.com/v1/lists/supported/c
+       ities/HAR/airports"}]},{"code":"HFD","name":"Hartford","countryCode":"US","count
+       ryName":"United States","regionName":"North America","Links":[{"rel":"airportsIn
+       City","href":"https://api.test.sabre.com/v1/lists/supported/cities/HFD/airports"
+       }]},{"code":"QHO","name":"Houston","countryCode":"US","countryName":"United Stat
+       es","regionName":"North America","Links":[{"rel":"airportsInCity","href":"https:
+       //api.test.sabre.com/v1/lists/supported/cities/QHO/airports"}]},{"code":"IST","n
+       ame":"Istanbul","countryCode":"TR","countryName":"Turkey","regionName":"Europe",
+       "Links":[{"rel":"airportsInCity","href":"https://api.test.sabre.com/v1/lists/sup
+       ported/cities/IST/airports"}]},{"code":"IZM","name":"Izmir","countryCode":"TR","
+       countryName":"Turkey","regionName":"Europe","Links":[{"rel":"airportsInCity","hr
+       ef":"https://api.test.sabre.com/v1/lists/supported/cities/IZM/airports"}]},{"cod
+       e":"JKT","name":"Jakarta","countryCode":"ID","countryName":"Indonesia","regionNa
+       me":"Asia Pacific","Links":[{"rel":"airportsInCity","href":"https://api.test.sab
+       re.com/v1/lists/supported/cities/JKT/airports"}]},{"code":"MKC","name":"Kansas C
+       ity","countryCode":"US","countryName":"United States","regionName":"North Americ
+       a","Links":[{"rel":"airportsInCity","href":"https://api.test.sabre.com/v1/lists/
+       supported/cities/MKC/airports"}]},{"code":"IEV","name":"Kiev","countryCode":"UA"
+       ,"countryName":"Ukraine","regionName":"Europe","Links":[{"rel":"airportsInCity",
+       "href":"https://api.test.sabre.com/v1/lists/supported/cities/IEV/airports"}]},{"
+       code":"ILE","name":"Killeen","countryCode":"US","countryName":"United States","r
+       egionName":"North America","Links":[{"rel":"airportsInCity","href":"https://api.
+       test.sabre.com/v1/lists/supported/cities/ILE/airports"}]},{"code":"KUL","name":"
+       Kuala Lumpur","countryCode":"MY","countryName":"Malaysia","regionName":"Asia Pac
+       ific","Links":[{"rel":"airportsInCity","href":"https://api.test.sabre.com/v1/lis
+       ts/supported/cities/KUL/airports"}]},{"code":"LIL","name":"Lille","countryCode":
+       "FR","countryName":"France","regionName":"Europe","Links":[{"rel":"airportsInCit
+       y","href":"https://api.test.sabre.com/v1/lists/supported/cities/LIL/airports"}]}
+       ,{"code":"LNZ","name":"Linz","countryCode":"AT","countryName":"Austria","regionN
+       ame":"Europe","Links":[{"rel":"airportsInCity","href":"https://api.test.sabre.co
+       m/v1/lists/supported/cities/LNZ/airports"}]},{"code":"LON","name":"London","coun
+       tryCode":"GB","countryName":"United Kingdom","regionName":"Europe","Links":[{"re
+       l":"airportsInCity","href":"https://api.test.sabre.com/v1/lists/supported/cities
+       /LON/airports"}]},{"code":"LYS","name":"Lyon","countryCode":"FR","countryName":"
+       France","regionName":"Europe","Links":[{"rel":"airportsInCity","href":"https://a
+       pi.test.sabre.com/v1/lists/supported/cities/LYS/airports"}]},{"code":"MMA","name
+       ":"Malmo","countryCode":"SE","countryName":"Sweden","regionName":"Europe","Links
+       ":[{"rel":"airportsInCity","href":"https://api.test.sabre.com/v1/lists/supported
+       /cities/MMA/airports"}]},{"code":"MES","name":"Medan","countryCode":"BE","countr
+       yName":"Belgium","regionName":"Europe","Links":[{"rel":"airportsInCity","href":"
+       https://api.test.sabre.com/v1/lists/supported/cities/MES/airports"}]},{"code":"M
+       EL","name":"Melbourne","countryCode":"AU","countryName":"Australia","regionName"
+       :"Asia Pacific","Links":[{"rel":"airportsInCity","href":"https://api.test.sabre.
+       com/v1/lists/supported/cities/MEL/airports"}]},{"code":"MIL","name":"Milan","cou
+       ntryCode":"IT","countryName":"Italy","regionName":"Europe","Links":[{"rel":"airp
+       ortsInCity","href":"https://api.test.sabre.com/v1/lists/supported/cities/MIL/air
+       ports"}]},{"code":"MLW","name":"Monrovia","countryCode":"LR","countryName":"Libe
+       ria","regionName":"Africa","Links":[{"rel":"airportsInCity","href":"https://api.
+       test.sabre.com/v1/lists/supported/cities/MLW/airports"}]},{"code":"YMQ","name":"
+       Montreal","countryCode":"CA","countryName":"Canada","regionName":"North America"
+       ,"Links":[{"rel":"airportsInCity","href":"https://api.test.sabre.com/v1/lists/su
+       pported/cities/YMQ/airports"}]},{"code":"MOW","name":"Moscow","countryCode":"RU"
+       ,"countryName":"Russian Federation","regionName":"Europe","Links":[{"rel":"airpo
+       rtsInCity","href":"https://api.test.sabre.com/v1/lists/supported/cities/MOW/airp
+       orts"}]},{"code":"NYC","name":"New York","countryCode":"US","countryName":"Unite
+       d States","regionName":"North America","Links":[{"rel":"airportsInCity","href":"
+       https://api.test.sabre.com/v1/lists/supported/cities/NYC/airports"}]},{"code":"N
+       HA","name":"Nha Trang","countryCode":"VN","countryName":"Viet Nam","regionName":
+       "Asia Pacific","Links":[{"rel":"airportsInCity","href":"https://api.test.sabre.c
+       om/v1/lists/supported/cities/NHA/airports"}]},{"code":"NQT","name":"Nottingham",
+       "countryCode":"GB","countryName":"United Kingdom","regionName":"Europe","Links":
+       [{"rel":"airportsInCity","href":"https://api.test.sabre.com/v1/lists/supported/c
+       ities/NQT/airports"}]},{"code":"ORL","name":"Orlando","countryCode":"US","countr
+       yName":"United States","regionName":"North America","Links":[{"rel":"airportsInC
+       ity","href":"https://api.test.sabre.com/v1/lists/supported/cities/ORL/airports"}
+       ]},{"code":"OSA","name":"Osaka","countryCode":"JP","countryName":"Japan","region
+       Name":"Asia Pacific","Links":[{"rel":"airportsInCity","href":"https://api.test.s
+       abre.com/v1/lists/supported/cities/OSA/airports"}]},{"code":"OSL","name":"Oslo",
+       "countryCode":"NO","countryName":"Norway","regionName":"Europe","Links":[{"rel":
+       "airportsInCity","href":"https://api.test.sabre.com/v1/lists/supported/cities/OS
+       L/airports"}]},{"code":"YOW","name":"Ottawa","countryCode":"CA","countryName":"C
+       anada","regionName":"North America","Links":[{"rel":"airportsInCity","href":"htt
+       ps://api.test.sabre.com/v1/lists/supported/cities/YOW/airports"}]},{"code":"PFN"
+       ,"name":"Panama City","countryCode":"US","countryName":"United States","regionNa
+       me":"North America","Links":[{"rel":"airportsInCity","href":"https://api.test.sa
+       bre.com/v1/lists/supported/cities/PFN/airports"}]},{"code":"PAR","name":"Paris",
+       "countryCode":"FR","countryName":"France","regionName":"Europe","Links":[{"rel":
+       "airportsInCity","href":"https://api.test.sabre.com/v1/lists/supported/cities/PA
+       R/airports"}]},{"code":"QPH","name":"Philadelphia","countryCode":"US","countryNa
+       me":"United States","regionName":"North America","Links":[{"rel":"airportsInCity
+       ","href":"https://api.test.sabre.com/v1/lists/supported/cities/QPH/airports"}]},
+       {"code":"REK","name":"Reykjavik","countryCode":"IS","countryName":"Iceland","reg
+       ionName":"Europe","Links":[{"rel":"airportsInCity","href":"https://api.test.sabr
+       e.com/v1/lists/supported/cities/REK/airports"}]},{"code":"RIO","name":"Rio De Ja
+       neiro","countryCode":"BR","countryName":"Brazil","regionName":"Latin America","L
+       inks":[{"rel":"airportsInCity","href":"https://api.test.sabre.com/v1/lists/suppo
+       rted/cities/RIO/airports"}]},{"code":"ROM","name":"Rome","countryCode":"IT","cou
+       ntryName":"Italy","regionName":"Europe","Links":[{"rel":"airportsInCity","href":
+       "https://api.test.sabre.com/v1/lists/supported/cities/ROM/airports"}]},{"code":"
+       SSX","name":"Samsun","countryCode":"TR","countryName":"Turkey","regionName":"Eur
+       ope","Links":[{"rel":"airportsInCity","href":"https://api.test.sabre.com/v1/list
+       s/supported/cities/SSX/airports"}]},{"code":"SRZ","name":"Santa Cruz","countryCo
+       de":"BO","countryName":"Bolivia","regionName":"Latin America","Links":[{"rel":"a
+       irportsInCity","href":"https://api.test.sabre.com/v1/lists/supported/cities/SRZ/
+       airports"}]},{"code":"SAO","name":"Sao Paulo","countryCode":"BR","countryName":"
+       Brazil","regionName":"Latin America","Links":[{"rel":"airportsInCity","href":"ht
+       tps://api.test.sabre.com/v1/lists/supported/cities/SAO/airports"}]},{"code":"SPK
+       ","name":"Sapporo","countryCode":"JP","countryName":"Japan","regionName":"Asia P
+       acific","Links":[{"rel":"airportsInCity","href":"https://api.test.sabre.com/v1/l
+       ists/supported/cities/SPK/airports"}]},{"code":"SSM","name":"Sault Ste Marie","c
+       ountryCode":"US","countryName":"United States","regionName":"North America","Lin
+       ks":[{"rel":"airportsInCity","href":"https://api.test.sabre.com/v1/lists/support
+       ed/cities/SSM/airports"}]},{"code":"SEA","name":"Seattle","countryCode":"US","co
+       untryName":"United States","regionName":"North America","Links":[{"rel":"airport
+       sInCity","href":"https://api.test.sabre.com/v1/lists/supported/cities/SEA/airpor
+       ts"}]},{"code":"SEL","name":"Seoul","countryCode":"KR","countryName":"Korea - Re
+       public Of","regionName":"Asia Pacific","Links":[{"rel":"airportsInCity","href":"
+       https://api.test.sabre.com/v1/lists/supported/cities/SEL/airports"}]},{"code":"S
+       HA","name":"Shanghai","countryCode":"CN","countryName":"China","regionName":"Asi
+       a Pacific","Links":[{"rel":"airportsInCity","href":"https://api.test.sabre.com/v
+       1/lists/supported/cities/SHA/airports"}]},{"code":"SDZ","name":"Shetland Islands
+       ","countryCode":"GB","countryName":"United Kingdom","regionName":"Europe","Links
+       ":[{"rel":"airportsInCity","href":"https://api.test.sabre.com/v1/lists/supported
+       /cities/SDZ/airports"}]},{"code":"SFY","name":"Springfield","countryCode":"US","
+       countryName":"United States","regionName":"North America","Links":[{"rel":"airpo
+       rtsInCity","href":"https://api.test.sabre.com/v1/lists/supported/cities/SFY/airp
+       orts"}]},{"code":"STX","name":"St Croix Island","countryCode":"VI","countryName"
+       :"Virgin Islands (U.S.)","regionName":"North America","Links":[{"rel":"airportsI
+       nCity","href":"https://api.test.sabre.com/v1/lists/supported/cities/STX/airports
+       "}]},{"code":"SLU","name":"St Lucia","countryCode":"LC","countryName":"Saint Luc
+       ia","regionName":"North America","Links":[{"rel":"airportsInCity","href":"https:
+       //api.test.sabre.com/v1/lists/supported/cities/SLU/airports"}]},{"code":"SBS","n
+       ame":"Steamboat Springs","countryCode":"US","countryName":"United States","regio
+       nName":"North America","Links":[{"rel":"airportsInCity","href":"https://api.test
+       .sabre.com/v1/lists/supported/cities/SBS/airports"}]},{"code":"STO","name":"Stoc
+       kholm","countryCode":"SE","countryName":"Sweden","regionName":"Europe","Links":[
+       {"rel":"airportsInCity","href":"https://api.test.sabre.com/v1/lists/supported/ci
+       ties/STO/airports"}]},{"code":"SXB","name":"Strasbourg","countryCode":"FR","coun
+       tryName":"France","regionName":"Europe","Links":[{"rel":"airportsInCity","href":
+       "https://api.test.sabre.com/v1/lists/supported/cities/SXB/airports"}]},{"code":"
+       STR","name":"Stuttgart","countryCode":"DE","countryName":"Germany","regionName":
+       "Europe","Links":[{"rel":"airportsInCity","href":"https://api.test.sabre.com/v1/
+       lists/supported/cities/STR/airports"}]},{"code":"TPE","name":"Taipei","countryCo
+       de":"TW","countryName":"Taiwan","regionName":"Asia Pacific","Links":[{"rel":"air
+       portsInCity","href":"https://api.test.sabre.com/v1/lists/supported/cities/TPE/ai
+       rports"}]},{"code":"QUF","name":"Tallinn","countryCode":"EE","countryName":"Esto
+       nia","regionName":"Europe","Links":[{"rel":"airportsInCity","href":"https://api.
+       test.sabre.com/v1/lists/supported/cities/QUF/airports"}]},{"code":"TPA","name":"
+       Tampa - St Petersburg","countryCode":"US","countryName":"United States","regionN
+       ame":"North America","Links":[{"rel":"airportsInCity","href":"https://api.test.s
+       abre.com/v1/lists/supported/cities/TPA/airports"}]},{"code":"THR","name":"Tehran
+       ","countryCode":"IR","countryName":"Iran (Islamic Republic Of)","regionName":"Mi
+       ddle East","Links":[{"rel":"airportsInCity","href":"https://api.test.sabre.com/v
+       1/lists/supported/cities/THR/airports"}]},{"code":"TCI","name":"Tenerife","count
+       ryCode":"ES","countryName":"Spain","regionName":"Europe","Links":[{"rel":"airpor
+       tsInCity","href":"https://api.test.sabre.com/v1/lists/supported/cities/TCI/airpo
+       rts"}]},{"code":"TYO","name":"Tokyo","countryCode":"JP","countryName":"Japan","r
+       egionName":"Asia Pacific","Links":[{"rel":"airportsInCity","href":"https://api.t
+       est.sabre.com/v1/lists/supported/cities/TYO/airports"}]},{"code":"YTO","name":"T
+       oronto","countryCode":"CA","countryName":"Canada","regionName":"North America","
+       Links":[{"rel":"airportsInCity","href":"https://api.test.sabre.com/v1/lists/supp
+       orted/cities/YTO/airports"}]},{"code":"ULY","name":"Ulyanovsk","countryCode":"RU
+       ","countryName":"Russian Federation","regionName":"Europe","Links":[{"rel":"airp
+       ortsInCity","href":"https://api.test.sabre.com/v1/lists/supported/cities/ULY/air
+       ports"}]},{"code":"VIE","name":"Vienna","countryCode":"AT","countryName":"Austri
+       a","regionName":"Europe","Links":[{"rel":"airportsInCity","href":"https://api.te
+       st.sabre.com/v1/lists/supported/cities/VIE/airports"}]},{"code":"WAS","name":"Wa
+       shington","countryCode":"US","countryName":"United States","regionName":"North A
+       merica","Links":[{"rel":"airportsInCity","href":"https://api.test.sabre.com/v1/l
+       ists/supported/cities/WAS/airports"}]},{"code":"SIA","name":"Xi An","countryCode
+       ":"CN","countryName":"China","regionName":"Asia Pacific","Links":[{"rel":"airpor
+       tsInCity","href":"https://api.test.sabre.com/v1/lists/supported/cities/SIA/airpo
+       rts"}]}],"Links":[{"rel":"self","href":"https://api.test.sabre.com/v1/lists/supp
+       orted/cities"},{"rel":"linkTemplate","href":"https://api.test.sabre.com/v1/lists
+       /supported/cities?country=<country>"}]}

@@ -1,0 +1,11 @@
+{"Cities":
+  [{"code":"AUH","name":"Abu Dhabi","countryCode":"AE","countryName":"United Arab Emirates","regionName":"Middle East"},
+  {"code":"ALY","name":"Alexandria","countryCode":"EG","countryName":"Egypt","regionName":"Middle East"},
+  {"code":"LTS","name":"Altus","countryCode":"US","countryName":"United States","regionName":"North America"},
+  {"code":"ANK","name":"Ankara","countryCode":"TR","countryName":"Turkey","regionName":"Europe"},
+  {"code":"AIY","name":"Atlantic City","countryCode":"US","countryName":"United States","regionName":"North America"},
+  {"code":"BAK","name":"Baku","countryCode":"AZ","countryName":"Azerbaijan","regionName":"Europe"},
+  {"code":"BKK","name":"Bangkok","countryCode":"TH","countryName":"Thailand","regionName":"Asia Pacific"},
+  {"code":"EAP","name":"Basel","countryCode":"CH","countryName":"Switzerland","regionName":"Europe"},
+  {"code":"BJS","name":"Beijing","countryCode":"CN","countryName":"China","regionName":"Asia Pacific"},
+]}
